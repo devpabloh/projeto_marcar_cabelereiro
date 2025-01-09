@@ -3,7 +3,7 @@
   "description": "Aplicação web de agendamento para corte de cabelo.",
   "author": "Pablo Henrique Ferreira de França",
   "scripts": {
-    "server": "json-server --watch server.json --port 3334"
+    "server": "json-server --watch server.json --port 3335"
   },
   "dependencies": {
     "@babel/core": "^7.23.7",
